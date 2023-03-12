@@ -13,6 +13,14 @@ public class App
         System.out.println( "Hello !" );
         System.out.println( "git-demo master!" );
         System.out.println( "git-demo first !" );
+        System.out.println( "git-demo master!" );
+        System.out.println( "git-demo first !" );
+        System.out.println( "git-demo master!" );
+        System.out.println( "git-demo first !" );
+        System.out.println( "git-demo master!" );
+        System.out.println( "git-demo first !" );
+        System.out.println( "git-demo master!" );
+        System.out.println( "git-demo first !" );
 
     }
 }
