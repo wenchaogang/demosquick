@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello Worlddd!" );
         System.out.println( "Hello !" );
-        System.out.println( "git-demo !" );
+        System.out.println( "git-demo first !" );
 
     }
 }
